@@ -80,6 +80,6 @@ Sistema para agendamiento de turnos mediante chatbot de WhatsApp y panel adminis
 
 ## 📫 Contacto
 
-- Email: ricarromero15@hotmail.com
+- Email: ricardooromero15@gmail.com
 - Ubicación: San Juan, Argentina
 
