@@ -39,35 +39,30 @@ Me interesa el desarrollo web, la automatización con IA y la creación de siste
 
 ## 📌 Proyectos destacados
 
+### MineSafe Tracker
+Sistema web para registrar, gestionar y auditar incidentes en operaciones mineras.
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Supabase · Recharts  
+**Repositorio público:** Documentación / Case Study  
+**Código fuente:** Privado
+
+---
+
 ### Sistema de control de ingreso de personal con QR
+Aplicación web para controlar ingreso y egreso de personal mediante códigos QR dinámicos.
 
-Aplicación web para gestionar el ingreso de personal mediante códigos QR.
-
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · API Routes
-
----
-
-### Sistema de seguimiento de incidentes para minería
-
-Aplicación web para registrar, consultar y hacer seguimiento de incidentes en entornos mineros.
-
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · API Routes
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · API Routes · Supabase  
+**Repositorio público:** Documentación / Case Study  
+**Código fuente:** Privado
 
 ---
 
-### Portfolio web personal
+### Sistema de gestión de turnos con chatbot de WhatsApp
+Sistema para agendamiento de turnos mediante chatbot de WhatsApp y panel administrativo privado.
 
-Sitio web para presentar mis proyectos, habilidades y experiencia como programador junior.
-
-**Stack:** HTML · CSS · JavaScript
-
----
-
-### Sistema de gestión de pedidos
-
-Sistema interno para registrar, organizar y consultar pedidos de un emprendimiento.
-
-**Stack:** JavaScript · Firebase · HTML · CSS
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · API Routes · Supabase  
+**Repositorio público:** Documentación / Case Study  
+**Código fuente:** Privado
 
 ## 📚 Actualmente aprendiendo
 
