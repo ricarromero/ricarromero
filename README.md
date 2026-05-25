@@ -1,5 +1,7 @@
 # Hola, soy Ricardo Romero 👋
 
+[🌐 Portfolio](https://portfolio-romero-ricardo.vercel.app/) · [📧 Email](mailto:ricardooromero15@gmail.com)
+
 Soy estudiante de Licenciatura en Ciencias de la Computación en la Universidad Nacional de San Juan.
 
 Me interesa el desarrollo web, la automatización con IA y la creación de sistemas útiles para empresas, negocios y problemáticas reales. Actualmente estoy desarrollando proyectos con enfoque en gestión, control de accesos y soluciones digitales para el sector minero.
@@ -80,7 +82,7 @@ Sistema para agendamiento de turnos mediante chatbot de WhatsApp y panel adminis
 
 ## 📫 Contacto
 
-- Portfolio: https://portfolio-romero-ricardo.vercel.app/
-- Email: ricardooromero15@gmail.com
+- Portfolio: [Ver portfolio](https://portfolio-romero-ricardo.vercel.app/)
+- Email: [ricardooromero15@gmail.com](mailto:ricardooromero15@gmail.com)
 - Ubicación: San Juan, Argentina
 
