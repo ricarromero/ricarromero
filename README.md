@@ -55,6 +55,15 @@ Aplicación web para controlar ingreso y egreso de personal mediante códigos QR
 
 ---
 
+### [Legal PDF Compressor & OCR](https://github.com/ricarromero/Legal_PDF_Compressor_y_OCR)
+
+Aplicación web para comprimir PDFs y aplicar OCR localmente, pensada para documentos jurídicos, expedientes escaneados y presentaciones digitales con límite de peso.
+
+**Stack:** React · Vite · PDF.js · jsPDF · Tesseract.js · CSS  
+**Enfoque:** LegalTech · OCR · Compresión de PDFs · Procesamiento local
+
+---
+
 ### [Sistema de gestión de turnos con chatbot de WhatsApp](https://github.com/ricaarromero/chatbot-turnos-whatsapp-case-study)
 Sistema para agendamiento de turnos mediante chatbot de WhatsApp y panel administrativo privado.
 
