@@ -39,30 +39,27 @@ Me interesa el desarrollo web, la automatización con IA y la creación de siste
 
 ## 📌 Proyectos destacados
 
-### MineSafe Tracker
+### [MineSafe Tracker](https://github.com/ricaarromero/minesafe-tracker-case-study)
 Sistema web para registrar, gestionar y auditar incidentes en operaciones mineras.
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Supabase · Recharts  
-**Repositorio público:** Documentación / Case Study  
-**Código fuente:** Privado
+**Código fuente:** Privado · **Repositorio público:** Case Study
 
 ---
 
-### Sistema de control de ingreso de personal con QR
+### [Sistema de control de ingreso de personal con QR](https://github.com/ricaarromero/sistema-control-ingreso-qr-case-study)
 Aplicación web para controlar ingreso y egreso de personal mediante códigos QR dinámicos.
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · API Routes · Supabase  
-**Repositorio público:** Documentación / Case Study  
-**Código fuente:** Privado
+**Código fuente:** Privado · **Repositorio público:** Case Study
 
 ---
 
-### Sistema de gestión de turnos con chatbot de WhatsApp
+### [Sistema de gestión de turnos con chatbot de WhatsApp](https://github.com/ricaarromero/chatbot-turnos-whatsapp-case-study)
 Sistema para agendamiento de turnos mediante chatbot de WhatsApp y panel administrativo privado.
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · API Routes · Supabase  
-**Repositorio público:** Documentación / Case Study  
-**Código fuente:** Privado
+**Código fuente:** Privado · **Repositorio público:** Case Study
 
 ## 📚 Actualmente aprendiendo
 
@@ -77,17 +74,3 @@ Sistema para agendamiento de turnos mediante chatbot de WhatsApp y panel adminis
 - Email: ricarromero15@hotmail.com
 - Ubicación: San Juan, Argentina
 
-<!--
-**ricarromero/ricarromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
