@@ -80,6 +80,7 @@ Sistema para agendamiento de turnos mediante chatbot de WhatsApp y panel adminis
 
 ## 📫 Contacto
 
+- Portfolio: https://portfolio-romero-ricardo.vercel.app/
 - Email: ricardooromero15@gmail.com
 - Ubicación: San Juan, Argentina
 
